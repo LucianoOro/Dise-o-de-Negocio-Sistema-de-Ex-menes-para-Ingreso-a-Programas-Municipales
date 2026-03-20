@@ -1,4 +1,4 @@
-# Negocio: Sistema de Exámenes para Ingreso a Programas Municipales
+# Diseño de Negocio: Sistema de Exámenes para Ingreso a Programas Municipales
 Este proyecto documenta el diseño completo de un sistema utilizando UML, abordando cada etapa del modelado para resolver problemas concretos de información en un contexto de negocio específico.
 
 Instrucción de uso: Seleccione  _**negocio.rar,**_  posteriormente download raw file, se descargará un archivo rar comprimido con un archivo con extension .eap, el cual se debe abrir con el programa Enterprise Architect, y además posee una carpeta con los artefactos en formato pdf para facilitar sus visualización.
